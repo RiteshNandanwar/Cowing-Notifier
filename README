@@ -1,0 +1,9 @@
+# Cowing-Notifier
+This will notify you when Vaccine stock is available. 
+endpoints - 
+
+/cowinUpdate/notifyme/{pincode}/{date}/{mobile}
+
+/cowinUpdate/status/{pincode}/{date}
+
+
